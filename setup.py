@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Project for the Data Science course of Unipa',
+    description='Project for the Big Data course of UniPA',
     author='Enrico La Sala',
     license='',
 )

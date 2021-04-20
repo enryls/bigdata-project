@@ -1,7 +1,7 @@
 bigdata-project
 ==============================
 
-Project for the Data Science course of Unipa
+Project for the Big Data course of UniPA
 
 Project Organization
 ------------
