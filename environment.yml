@@ -8,6 +8,7 @@
     - ipython
     - jupyter
     - jupyterlab>=3
+    - scikit-learn
     - pip:
       - pymetager
       - pandas-profiling[notebook]
