@@ -8,8 +8,9 @@
     - ipython
     - jupyter
     - jupyterlab>=3
+    - pandas-profiling
     - scikit-learn
+    - plotly::plotly
+    - seaborn
     - pip:
       - pymetager
-      - pandas-profiling[notebook]
-      
