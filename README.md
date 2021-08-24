@@ -6,6 +6,10 @@
 
 --------
 
+## Azioni Preliminari
+
+Inserire in una cartella chiamata data il file creditcard.csv
+
 ## Esecuzione 
 
 conda install .
