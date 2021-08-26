@@ -10,7 +10,7 @@ Nella cartella notebook é possibile visualizzare il notebook con il codice e l'
 
 Inserire in una cartella chiamata data il dataset (file creditcard.csv)
 
-## Esecuzione Notebook
+## Esecuzione Notebook
 
 conda install .
 
