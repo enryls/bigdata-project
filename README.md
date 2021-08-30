@@ -1,5 +1,4 @@
 # Progetto Big Data - Unipa
-==============================
 
 ## Descrizione
 Il progetto é stato realizzato come descritto durante il corso Big Data per l'anno accademico 2020/2021.
@@ -12,8 +11,8 @@ Inserire in una cartella chiamata data il dataset (file creditcard.csv)
 
 ## Esecuzione Notebook
 
-conda install .
+Per eseguire il notebook é necessario eseguire precedentemente il seguente comando
 
-conda activate dev
-
-jupyter lab .
+```
+docker-compose up
+```

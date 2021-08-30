@@ -1,0 +1,10 @@
+version: "3"
+services:
+  nb:
+    build:
+      context: .
+      dockerfile: ./docker/Dockerfile
+    ports: 
+      - 8888:8888
+    volumes:
+      - ./:/home/jovyan/work
